@@ -1,0 +1,7 @@
+Download the data set from - https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+
+Extract and keep the household_power_consumption.txt file in this folder
+
+(or)
+
+un compress the file in this folder
